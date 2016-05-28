@@ -1,0 +1,3 @@
+The following cheat sheets are authored by Ron Cotton and hereby reliquish all rights to the given works to the public domain:
+
+Bash Script Cheat Sheet Beta Edition
